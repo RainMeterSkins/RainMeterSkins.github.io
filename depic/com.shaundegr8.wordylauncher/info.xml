@@ -8,7 +8,9 @@
 	<descriptionlist>
 		<description>This download contains a Launcher built for RainMeter!</description>
 		<description>The launcher is a word icon based launcher and changes your wallpaper when hovered over! Once the .rmskin package is installed my layout will be set with my wallpaper to replicate the setup in the video!</description>
-    <description><iframe width="560" height="315" src="https://www.youtube.com/embed/Z3QzxM8nybY" frameborder="0" allowfullscreen></iframe></description>
+    <description><div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+									<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3QzxM8nybY" frameborder="0" allowfullscreen></iframe>
+								</div></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
