@@ -22,12 +22,14 @@
 		<link>
 			<name>/r/rainmeter</name>
 			<url>https://www.reddit.com/r/rainmeter</url>
-			<name>Download</name>
-			<url>http://adf.ly/1U0pKD</url>
 		</link>
 		<link>
 			<name>Setup Video Modeling Skin</name>
 			<url>https://www.youtube.com/watch?v=Z3QzxM8nybY</url>
+		</link>
+		<link>
+			<name>Download</name>
+			<url>http://adf.ly/1U0pKD</url>
 		</link>
 	</links>
 </package>

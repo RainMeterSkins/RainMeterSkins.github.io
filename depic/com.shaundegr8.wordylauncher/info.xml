@@ -22,9 +22,11 @@
 		<link>
 			<name>/r/rainmeter</name>
 			<url>https://www.reddit.com/r/rainmeter</url>
-			<nane>Download</name>
-			<url>http://adf.ly/1TxNep</url>
 		</link>
+	  <link>
+		  <name>Download</name>
+		  <url>http://adf.ly/1TxNep</url>
+	  </link>
 		<link>
 			<name>Setup Video Modeling Skin</name>
 			<url>https://www.youtube.com/watch?v=Z3QzxM8nybY</url>
