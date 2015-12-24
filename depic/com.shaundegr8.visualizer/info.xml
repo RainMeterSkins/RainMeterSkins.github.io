@@ -1,13 +1,13 @@
 <package>
-	<id>com.shaundegr8.wordylauncher</id>
-	<name>Wordy Launcher</name>
-	<version>1.2</version>
+	<id>com.shaundegr8.visualizer</id>
+	<name>Fountain of Colors Visualizer</name>
+	<version>3.4.7</version>
 	<dependencies>
 		<package>RainMeter</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This download contains a Launcher built for RainMeter!</description>
-		<description>The launcher is a word icon based launcher and changes your wallpaper when hovered over! Once the .rmskin package is installed my layout will be set with my wallpaper to replicate the setup in the video!</description>
+		<description>This package contains an audio visualizer!</description>
+		<description>The visualizer has many aspects to customize! Once loaded a settings page will open for all customization options! For help visit /r/rainmeter!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -16,14 +16,14 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added More Icons</change>
+		<change>Improved fountain effect timing and bar movement. (Requires manual readjustment of settings)</change>
 	</changelog>
 	<links>
 		<link>
 			<name>/r/rainmeter</name>
 			<url>https://www.reddit.com/r/rainmeter</url>
-			<nane>Download</name>
-			<url>http://adf.ly/1TxNep</url>
+			<name>Download</name>
+			<url>http://adf.ly/1U0pBs</url>
 		</link>
 		<link>
 			<name>Setup Video Modeling Skin</name>

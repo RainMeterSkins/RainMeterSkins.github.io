@@ -1,13 +1,13 @@
 <package>
-	<id>com.shaundegr8.wordylauncher</id>
-	<name>Wordy Launcher</name>
-	<version>1.2</version>
+	<id>com.shaundegr8.dinaj</id>
+	<name>Do I Need A Jacket?</name>
+	<version>1.0</version>
 	<dependencies>
 		<package>RainMeter</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This download contains a Launcher built for RainMeter!</description>
-		<description>The launcher is a word icon based launcher and changes your wallpaper when hovered over! Once the .rmskin package is installed my layout will be set with my wallpaper to replicate the setup in the video!</description>
+		<description>This package contains a widget that truthfully tells you if you need a jacker or not!</description>
+		<description>The widget is extremely useful! Update your info in the dinaj.ini in /rainmeter/skins/dinaj.ini! This uses your WOEID! For help visit /r/rainmeter!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -16,14 +16,14 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added More Icons</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>
 			<name>/r/rainmeter</name>
 			<url>https://www.reddit.com/r/rainmeter</url>
-			<nane>Download</name>
-			<url>http://adf.ly/1TxNep</url>
+			<name>Download</name>
+			<url>http://adf.ly/1U0rWU</url>
 		</link>
 		<link>
 			<name>Setup Video Modeling Skin</name>

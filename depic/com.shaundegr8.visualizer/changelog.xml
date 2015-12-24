@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>3.4.7</version>
+		<change>Improved fountain effect timing and bar movement. (Requires manual readjustment of settings)</change>
+	</changes>
+</changelog>
